@@ -1,5 +1,5 @@
 # simple-python-calculator
-A simple Command-Line Interface (CLI) based Calculator using Python
+A simple Command-Line Interface (CLI) based Calculator using Python.<br>
 This code is efficient of performing following operations:
     ● Addition
     ● Subtraction
